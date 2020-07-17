@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<AutoUpdate>
+  <UpdateInfo>
+    <UpdateTime Date = "2020/07/17"/> //升级文件的更新日期
+    <Version Num = "1.0.0"/> //升级文件的版本号
+  </UpdateInfo>
+  <UpdateFileList>
+    <UpdateFile FileName = "AutoUpdate.dll"/>
+    <UpdateFile FileName = "RedBull.dll"/>
+    <UpdateFile FileName = "RedBull.dll.manifest"/>
+    <UpdateFile FileName = "RedBull.vsto"/>
+  </UpdateFileList>     //需要升级的文件列表
+</AutoUpdate>
