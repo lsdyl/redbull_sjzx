@@ -4,7 +4,8 @@
 + 尝试从官方网址下载安装[Microsoft Access Database Engine 2010](https://www.microsoft.com/en-in/download/details.aspx?id=13255)
 
 ### 不能更新下载
-可以使用代理，或尝试修改Hosts，方法如下：
++ 你可以[点击这里]自行下载(https://raw.githubusercontent.com/lsdyl/redbull_sjzx/master/RedBull_setup.exe)
++ 可以使用代理，或尝试修改Hosts，方法如下：
 1. 按 `Win+R`，打开运行
 2. 输入 `%SystemRoot%\system32\drivers\etc\hosts`,回车
 3. 选择打开方式为 记事本
