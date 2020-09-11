@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <AutoUpdate>
   <UpdateInfo>
-    <UpdateTime Date = "2020/07/22"/> //升级文件的更新日期
-    <Version Num = "1.0.1"/> //升级文件的版本号
+    <UpdateTime Date = "2020/09/11"/> //升级文件的更新日期
+    <Version Num = "1.0.2"/> //升级文件的版本号
   </UpdateInfo>
   <UpdateFileList>
     <UpdateFile FileName = "AutoUpdate.dll"/>
