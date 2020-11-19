@@ -2,7 +2,7 @@
 <AutoUpdate>
   <UpdateInfo>
     <UpdateTime Date = "2020/11/19"/> //升级文件的更新日期
-    <Version Num = "1.0.8.1"/> //升级文件的版本号
+    <Version Num = "1.0.9"/> //升级文件的版本号
   </UpdateInfo>
   <UpdateFileList>
     <UpdateFile FileName = "AutoUpdate.dll"/>
