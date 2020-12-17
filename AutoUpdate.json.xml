@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <AutoUpdate>
-    <UpdateTime>2020/11/27</UpdateTime> 
-    <VersionNum>1.0.9.2</VersionNum>
- <DownloadUrl>https://raw.githubusercontent.com/lsdyl/redbull_sjzx/master/RedBull_setup.exe</DownloadUrl>
+    <UpdateTime>2020/12/17</UpdateTime> 
+    <VersionNum>1.1.1</VersionNum>
+ <DownloadUrl>https://lsdyl.coding.net/p/redbull_sjzx/d/redbull_sjzx/git/raw/master/RedBull_setup.exe</DownloadUrl>
     <Description>1.0.9.2使用json格式传输，这里是对应的xml传输格式，客户端能同时解析</Description>
 </AutoUpdate>
