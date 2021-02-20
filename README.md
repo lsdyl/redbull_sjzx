@@ -9,9 +9,11 @@
 [![GitHub license](https://img.shields.io/github/license/lsdyl/redbull_sjzx?style=flat-square)](https://github.com/lsdyl/redbull_sjzx/blob/main/LICENSE)
 [![GitHub All Releases](https://img.shields.io/github/downloads/lsdyl/redbull_sjzx/total?style=flat-square)](https://github.com/lsdyl/redbull_sjzx/releases)
 [![GitHub contributors](https://img.shields.io/github/contributors/lsdyl/redbull_sjzx?style=flat-square)](https://github.com/lsdyl/redbull_sjzx/graphs/contributors)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/lsdyl/redbull_sjzx?style=flat-square)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/lsdyl/redbull_sjzx?style=flat-square)](https://github.com/lsdyl/redbull_sjzx/releases/tag/v1.1.5.0)
 
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsdyl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Coding项目副本：[地址](https://lsdyl.coding.net/public/redbull_sjzx/redbull_sjzx/git)
 
