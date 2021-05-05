@@ -12,8 +12,7 @@
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/lsdyl/redbull_sjzx?style=flat-square)](https://github.com/lsdyl/redbull_sjzx/releases/tag/v1.1.5.0)
 
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsdyl&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsdyl&show_icons=true&count_private=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Coding项目副本：[地址](https://lsdyl.coding.net/public/redbull_sjzx/redbull_sjzx/git)
 
