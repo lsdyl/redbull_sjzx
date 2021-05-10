@@ -1,6 +1,8 @@
 {
-  "UpdateTime": "2022/04/30",
-  "VersionNum": "1.1.12.0",
-  "DownloadUrl": "https://lsdyl.coding.net/p/redbull_sjzx/d/redbull_sjzx/git/raw/master/RedBull_setup.exe",
-  "Description": "更新UI"
+  "UpdateTime": "2021/05/09",
+  "VersionNum": "1.1.13.999",
+  "DownloadUrl": "https://lsdyl.coding.net/p/update/d/redbull_sjzx/git/raw/main/RedBull_setup.exe",
+  "Description": "地址变更，后续版本从2开始，老版本必须更新到此版本才能进行后续更新",
+  "Notice": "地址变更，后续版本从2开始，老版本必须更新到此版本才能进行后续更新",
+  "Signature": "C1922655C4C7C2574C05C3A969C86E70"
 }

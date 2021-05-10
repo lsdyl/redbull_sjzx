@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8"?>
+
 <AutoUpdate>
-  <UpdateInfo>
-    <UpdateTime Date = "2022/04/29"/> 
-    <Version Num = "1.1.11.0"/> 
-  </UpdateInfo>
+    <UpdateTime>2021/05/08</UpdateTime>
+    <VersionNum>1.1.13.0</VersionNum>
+    <DownloadUrl>https://lsdyl.coding.net/p/update/d/redbull_sjzx/git/raw/main/RedBull_setup.exe</DownloadUrl>
+    <Description>更新升级UI，修复若干BUG（XML升级）</Description>
+    <Notice>此版本后程序更新地址变更</Notice>
+    <Signature>67C00B6846221FB5D3D360E9D54EB23B</Signature>
 </AutoUpdate>
