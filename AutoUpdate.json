@@ -1,8 +1,8 @@
 {
-  "UpdateTime": "2022/04/30",
-  "VersionNum": "2.0.0",
-  "DownloadUrl": "https://lsdyl.coding.net/p/update/d/redbull_sjzx/git/raw/main/RedBull_setup.exe",
-  "Description": "新增箱号拆分，删除火车位置追踪",
-  "Notice": "",
-  "Signature": "99EF15EDC9E97BA07A8CF7E3EC17D720"
+  "UpdateTime": "2022/08/30",
+  "VersionNum": "2.0.1.0",
+  "DownloadUrl": "https://aliyunautoupdate.oss-cn-chengdu.aliyuncs.com/redbull_sjzx/RedBull_setup.exe",
+  "Description": "修复程序更新服务器；服务器变更为阿里云",
+  "Notice": "此程序将不再更新维护",
+  "Signature": "EC2AD1BBDF900B7138D8762D8869F3CE"
 }
