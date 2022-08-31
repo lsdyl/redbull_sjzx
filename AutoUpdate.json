@@ -1,8 +1,8 @@
 {
-  "UpdateTime": "2022/08/30",
-  "VersionNum": "2.0.1.0",
-  "DownloadUrl": "https://aliyunautoupdate.oss-cn-chengdu.aliyuncs.com/redbull_sjzx/RedBull_setup.exe",
+  "UpdateTime": "2022/08/31",
+  "VersionNum": "2.0.3.0",
+  "DownloadUrl": "https://csharpupdate.oss-cn-hongkong.aliyuncs.com/redbull_sjzx/RedBull_setup.exe",
   "Description": "修复程序更新服务器；服务器变更为阿里云",
   "Notice": "此程序将不再更新维护",
-  "Signature": "EC2AD1BBDF900B7138D8762D8869F3CE"
+  "Signature": "82D8DB9681D1EE278FC1AE47D7ACAD9A"
 }
